@@ -10,7 +10,7 @@ from sklearn.cluster import DBSCAN
 from pdgs_generation import *
 from FPstatic import *
 
-# attributes from major papers in browser FP(https://docs.google.com/spreadsheets/d/1jH24h0DJUUTw-s6gOzIk_SPE93BswMfJg5uXUZJvacs/edit#gid=0)
+# attributes from major papers in browser FP
 attributes = [
     "Navigator.languages",
     "Window.sessionStorage",
